@@ -1,0 +1,181 @@
+@charset "UTF-8";
+/* 头部 */
+#head {
+  width: 1349px;
+  height: 36px;
+  background: #f9f9f9;
+  position: relative;
+}
+#head .leftBox {
+  float: left;
+  margin-left: 75px;
+}
+#head .leftBox li {
+  float: left;
+  padding: 6px 0;
+}
+#head .leftBox li a {
+  padding: 0 8px;
+  line-height: 24px;
+}
+#head .leftBox li a:hover {
+  color: red;
+}
+#head .leftBox li span {
+  display: inline-block;
+  height: 10px;
+  width: 1px;
+  background: #d3d3d3;
+}
+#head .rightBox {
+  float: right;
+  margin-right: 75px;
+}
+#head .rightBox li {
+  float: left;
+  padding: 6px 0;
+}
+#head .rightBox li a {
+  padding: 0 8px;
+  line-height: 24px;
+}
+#head .rightBox li a:hover {
+  color: red;
+}
+#head .rightBox li span {
+  display: inline-block;
+  height: 10px;
+  width: 1px;
+  background: #d3d3d3;
+}
+#head .rightBox .colorCat {
+  background: #f2f2f2;
+}
+#head .rightBox .colorCat i {
+  margin-right: 5px;
+}
+#head .pull-down-list1 {
+  width: 120px;
+  height: 140px;
+  left: 535px;
+  background: white;
+  position: absolute;
+  top: 36px;
+  padding-top: 7px;
+  border-radius: 5px;
+  display: none;
+}
+#head .pull-down-list1 a {
+  display: block;
+  text-align: center;
+  line-height: 32px;
+  font-size: 12px;
+  color: #777777;
+}
+#head .pull-down-list2 {
+  width: 80px;
+  height: 82px;
+  left: 1039px;
+  background: white;
+  position: absolute;
+  top: 36px;
+  padding-top: 7px;
+  border-radius: 5px;
+  display: none;
+}
+#head .pull-down-list2 a {
+  display: block;
+  text-align: center;
+  line-height: 32px;
+  font-size: 12px;
+  color: #777777;
+}
+#head .pull-down-list3 {
+  width: 893px;
+  height: 142px;
+  left: 222px;
+  background: white;
+  position: absolute;
+  top: 36px;
+  padding-top: 7px;
+  border-radius: 5px;
+  display: none;
+}
+#head .pull-down-list3 div {
+  width: 145px;
+  float: left;
+  padding-top: 32px;
+}
+#head .pull-down-list3 div p {
+  width: 50px;
+  height: 50px;
+  background: #f7f7f7;
+  border-radius: 25px;
+  text-align: center;
+  line-height: 50px;
+}
+#head .pull-down-list3 div p i {
+  font-size: 25px;
+  color: #b9bdc9;
+}
+#head .pull-down-list3 div a {
+  display: block;
+  margin-top: 7px;
+}
+#head .pull-down-list3 ul {
+  float: left;
+}
+#head .pull-down-list3 ul li {
+  width: 185px;
+  float: left;
+}
+#head .pull-down-list3 ul li h2 {
+  font-size: 16px;
+  color: #333333;
+  font-weight: bold;
+  line-height: 34px;
+  margin-top: 15px;
+}
+#head .pull-down-list3 ul li a {
+  float: left;
+  width: 80px;
+  line-height: 24px;
+}
+#head .pull-down-list4 {
+  width: 244px;
+  height: 393px;
+  position: absolute;
+  background: red;
+  top: 36px;
+  left: 950px;
+  display: none;
+}
+#head .pull-down-list4 div {
+  height: 130px;
+  border: 1px solid #e5e5e5;
+}
+#head .pull-down-list5 {
+  width: 480px;
+  position: absolute;
+  top: 36px;
+  left: 795px;
+  padding-top: 50px;
+  display: none;
+}
+#head .pull-down-list5 h5 {
+  text-align: center;
+  margin-top: 16px;
+}
+#head .pull-down-list5 p {
+  width: 100px;
+  height: 100px;
+  background: #f7f7f7;
+  border-radius: 50px;
+  text-align: center;
+  line-height: 100px;
+  margin-left: 180px;
+}
+#head .pull-down-list5 p i {
+  font-size: 50px;
+  color: #b9bdc9;
+}
