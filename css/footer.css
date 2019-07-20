@@ -88,6 +88,7 @@
   margin-right: 10px;
 }
 #foot .center .contact h5 {
+	position: relative;
   margin-top: 14px;
   color: #575757;
   height: 20px;
@@ -99,6 +100,13 @@
 #foot .center .contact h5 span {
   float: left;
 }
+#foot .center .contact h5 p {
+  position: absolute;
+	top: 10px;
+	left: 50px;
+	display: none;
+}
+
 #foot .bott {
   padding: 26px;
 }
