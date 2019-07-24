@@ -75,9 +75,9 @@
   color: #777777;
 }
 #head .pull-down-list2 {
-  width: 85px;
+  width: 80px;
   height: 82px;
-  left: 942px;
+  left: 1039px;
   z-index: 100;
   background: white;
   position: absolute;
@@ -108,8 +108,9 @@
   display: none;
 }
 #head .pull-down-list3 div {
-  width: 125px;
+  width: 145px;
   float: left;
+  padding-top: 32px;
 }
 #head .pull-down-list3 div p {
   width: 50px;
@@ -118,7 +119,6 @@
   border-radius: 25px;
   text-align: center;
   line-height: 50px;
-	margin: 20px auto;
 }
 #head .pull-down-list3 div p i {
   font-size: 25px;
@@ -127,7 +127,6 @@
 #head .pull-down-list3 div a {
   display: block;
   margin-top: 7px;
-	text-align: center;
 }
 #head .pull-down-list3 ul {
   float: left;
@@ -166,7 +165,7 @@
   position: absolute;
   top: 36px;
   left: 795px;
-  padding: 50px 0;
+  padding-top: 50px;
   display: none;
   background: white;
   z-index: 100;
