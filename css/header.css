@@ -188,3 +188,72 @@
   font-size: 50px;
   color: #b9bdc9;
 }
+#head #indexNav {
+  width: 1199px;
+  height: 74px;
+  padding: 0 75px;
+}
+#head #indexNav div {
+  float: left;
+}
+#head #indexNav div a {
+  line-height: 74px;
+}
+#head #indexNav ul {
+  float: left;
+  margin: 20px 0 0 32px;
+}
+#head #indexNav ul li {
+  line-height: 24px;
+  float: left;
+  border-radius: 12px;
+  padding: 0 5px;
+  margin: 0 12px;
+}
+#head #indexNav ul li:nth-child(1) {
+  background: #ff8486;
+}
+#head #indexNav ul li:nth-child(1) a {
+  color: white;
+}
+#head #indexNav ul li:nth-child(2) {
+  background: #74c7ff;
+}
+#head #indexNav ul li:nth-child(2) a {
+  color: white;
+}
+#head #indexNav ul li a {
+  font-size: 14px;
+  color: black;
+}
+#head #indexNav p {
+  float: left;
+  width: 290px;
+  height: 30px;
+  border-radius: 15px;
+  background: #f0f0f0;
+  margin: 16px 49px;
+  padding: 0 15px;
+}
+#head #indexNav p input {
+  line-height: 30px;
+  float: left;
+  border: 0;
+  width: 120px;
+  background: #f0f0f0;
+  height: 30px;
+  box-sizing: border-box;
+}
+#head #indexNav p a {
+  line-height: 30px;
+  float: left;
+  color: red;
+  padding: 0 5px;
+}
+#head #indexNav p i {
+  line-height: 30px;
+  float: left;
+  font-size: 18px;
+  color: black;
+  padding-left: 10px;
+}

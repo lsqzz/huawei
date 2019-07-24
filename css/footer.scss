@@ -86,7 +86,7 @@
 				}
 			}
 			 
-			div{
+			h5{
 				margin-top: 14px;
 				color: #575757;
 				height: 20px;
@@ -96,6 +96,12 @@
 				}
 				span{
 					float: left;
+				}
+				p{
+					display: none;
+					img{
+						z-index: 10;
+					}
 				}
 			}
 		}
