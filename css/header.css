@@ -54,12 +54,10 @@
 #head .rightBox .colorCat i {
   margin-right: 5px;
 }
-
-
 #head .pull-down-list1 {
   width: 120px;
   height: 140px;
-  left: 527px;
+  left: 535px;
   background: white;
   position: absolute;
   top: 36px;
@@ -74,13 +72,10 @@
   font-size: 12px;
   color: #777777;
 }
-#head .pull-down-list1 a:hover{
-	color: red;
-}
 #head .pull-down-list2 {
-  width: 86px;
+  width: 80px;
   height: 82px;
-  left: 942px;
+  left: 1039px;
   background: white;
   position: absolute;
   top: 36px;
@@ -88,15 +83,12 @@
   border-radius: 5px;
   display: none;
 }
-#head .pull-down-list2 a{
+#head .pull-down-list2 a {
   display: block;
   text-align: center;
   line-height: 32px;
   font-size: 12px;
   color: #777777;
-}
-#head .pull-down-list2 a:hover{
-	color: red;
 }
 #head .pull-down-list3 {
   width: 893px;
@@ -149,13 +141,11 @@
   width: 80px;
   line-height: 24px;
 }
-#head .pull-down-list3 ul li a:hover{
-	color: red;
-}
 #head .pull-down-list4 {
   width: 244px;
   height: 393px;
   position: absolute;
+  background: red;
   top: 36px;
   left: 950px;
   display: none;
@@ -171,7 +161,6 @@
   left: 795px;
   padding-top: 50px;
   display: none;
-	background: white;
 }
 #head .pull-down-list5 h5 {
   text-align: center;
