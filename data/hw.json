@@ -160,7 +160,11 @@
                 {"imgs":"image/imgs/a5.png","mark":"a5"},
                 {"imgs":"image/imgs/a6.png","mark":"a6"} 
             ]},
+<<<<<<< HEAD
             {"title":"荣耀20 PRO","desc":"6期免息|128GB赠礼品 ", "imgurl":"image/imgs/xm6.png","price":"￥3199","code":"dan2","prop":[
+=======
+            {"xin":"新品","title":"荣耀20 PRO","desc":"6期免息|128GB赠礼品 ", "imgurl":"image/imgs/xm6.png","price":"￥3199","code":"dan2","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/b1.jpg","mark":"b1"},
                 {"imgs":"image/imgs/b2.png","mark":"b2"},
                 {"imgs":"image/imgs/b3.png","mark":"b3"},
@@ -168,7 +172,11 @@
                 {"imgs":"image/imgs/b5.png","mark":"b5"},
                 {"imgs":"image/imgs/b6.png","mark":"b6"}
             ]},
+<<<<<<< HEAD
             {"title":"HUAWEI nova 5","desc":"订金50抵100 V2-V5用户赠延保   ", "imgurl":"image/imgs/xm7.png","price":"￥2799","code":"dan3","prop":[
+=======
+            {"xin":"新品","title":"HUAWEI nova 5","desc":"订金50抵100 V2-V5用户赠延保   ", "imgurl":"image/imgs/xm7.png","price":"￥2799","code":"dan3","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/c1.jpg","mark":"c1"},
                 {"imgs":"image/imgs/c2.png","mark":"c2"},
                 {"imgs":"image/imgs/c3.png","mark":"c3"},
@@ -184,7 +192,11 @@
                 {"imgs":"image/imgs/d5.jpg","mark":"d5"},
                 {"imgs":"image/imgs/d6.jpg","mark":"d6"}
             ]},
+<<<<<<< HEAD
             {"title":"HUAWEI Mate 20 Pro","desc":"直降400|享6期免息", "imgurl":"image/imgs/xm9.png","price":"￥5099","code":"dan5","prop":[
+=======
+            {"xin":"直降","title":"HUAWEI Mate 20 Pro","desc":"直降400|享6期免息", "imgurl":"image/imgs/xm9.png","price":"￥5099","code":"dan5","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/e1.png","mark":"e1"},
                 {"imgs":"image/imgs/e2.png","mark":"e2"},
                 {"imgs":"image/imgs/e3.png","mark":"e3"},
@@ -192,7 +204,11 @@
                 {"imgs":"image/imgs/e5.png","mark":"e5"},
                 {"imgs":"image/imgs/e6.png","mark":"e6"}
             ]},
+<<<<<<< HEAD
             {"title":"荣耀V20","desc":"最高优惠1000元 6期免息", "imgurl":"image/imgs/xm10.png","price":"￥2399","code":"dan6","prop":[
+=======
+            {"xin":"爆款","title":"荣耀V20","desc":"最高优惠1000元 6期免息", "imgurl":"image/imgs/xm10.png","price":"￥2399","code":"dan6","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/f1.png","mark":"f1"},
                 {"imgs":"image/imgs/f2.png","mark":"f2"},
                 {"imgs":"image/imgs/f3.png","mark":"f3"},
@@ -200,7 +216,11 @@
                 {"imgs":"image/imgs/f5.jpg","mark":"f5"},
                 {"imgs":"image/imgs/f6.jpg","mark":"f6"}
             ]},
+<<<<<<< HEAD
             {"title":"HUAWEI Mate 20","desc":"直降300|享6期免息", "imgurl":"image/imgs/xm11.png","price":"￥3199","code":"dan7","prop":[
+=======
+            {"xin":"直降","title":"HUAWEI Mate 20","desc":"直降300|享6期免息", "imgurl":"image/imgs/xm11.png","price":"￥3199","code":"dan7","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/g1.png","mark":"g1"},
                 {"imgs":"image/imgs/g2.png","mark":"g2"},
                 {"imgs":"image/imgs/g3.png","mark":"g3"},
@@ -208,7 +228,11 @@
                 {"imgs":"image/imgs/g5.png","mark":"g5"},
                 {"imgs":"image/imgs/g6.png","mark":"g6"}
             ]},
+<<<<<<< HEAD
             {"title":"荣耀畅玩8","desc":"新品首销赠红酒券", "imgurl":"image/imgs/xm12.png","price":"￥599","code":"dan8","prop":[
+=======
+            {"xin":"爆款","title":"荣耀畅玩8","desc":"新品首销赠红酒券", "imgurl":"image/imgs/xm12.png","price":"￥599","code":"dan8","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/h1.jpg","mark":"h1"},
                 {"imgs":"image/imgs/h2.png","mark":"h2"},
                 {"imgs":"image/imgs/h3.png","mark":"h3"},
@@ -216,7 +240,11 @@
                 {"imgs":"image/imgs/h5.png","mark":"h5"},
                 {"imgs":"image/imgs/h6.png","mark":"h6"}
             ]},
+<<<<<<< HEAD
             {"title":"HUAWEI nova 5i","desc":"限量赠配件好礼", "imgurl":"image/imgs/xm13.png","price":"￥1999","code":"dan9","prop":[
+=======
+            {"xin":"新品","title":"HUAWEI nova 5i","desc":"限量赠配件好礼", "imgurl":"image/imgs/xm13.png","price":"￥1999","code":"dan9","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/i1.jpg","mark":"i1"},
                 {"imgs":"image/imgs/i2.png","mark":"i2"},
                 {"imgs":"image/imgs/i3.png","mark":"i3"},
@@ -364,7 +392,11 @@
                 {"imgs":"image/imgs/za5.png","mark":"za5"},
                 {"imgs":"image/imgs/za6.png","mark":"za6"}
             ]},
+<<<<<<< HEAD
             {"title":"荣耀10青春版  ","desc":"最高优惠500 ", "imgurl":"image/imgs/shou2.png","price":"￥999","code":"shou2","prop":[
+=======
+            {"xin":"爆款","title":"荣耀10青春版  ","desc":"最高优惠500 ", "imgurl":"image/imgs/shou2.png","price":"￥999","code":"shou2","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/zb1.png","mark":"zb1"},
                 {"imgs":"image/imgs/zb2.png","mark":"zb2"},
                 {"imgs":"image/imgs/zb3.png","mark":"zb3"},
@@ -372,7 +404,11 @@
                 {"imgs":"image/imgs/zb5.png","mark":"zb5"},
                 {"imgs":"image/imgs/zb6.png","mark":"zb6"}
             ]},
+<<<<<<< HEAD
             {"title":"HUAWEI Mate 20 X  ","desc":"直降400|6期免息 ", "imgurl":"image/imgs/shou3.png","price":"￥4099","code":"shou3","prop":[
+=======
+            {"xin":"直降","title":"HUAWEI Mate 20 X  ","desc":"直降400|6期免息 ", "imgurl":"image/imgs/shou3.png","price":"￥4099","code":"shou3","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/zc1.png","mark":"zc1"},
                 {"imgs":"image/imgs/zc2.png","mark":"zc2"},
                 {"imgs":"image/imgs/zc3.png","mark":"zc3"},
@@ -388,7 +424,11 @@
                 {"imgs":"image/imgs/zd5.png","mark":"zd5"},
                 {"imgs":"image/imgs/zd6.png","mark":"zd6"}
             ]},
+<<<<<<< HEAD
             {"title":"HUAWEI nova 4 ","desc":"4800万超广角三摄 ", "imgurl":"image/imgs/shou5.png","price":"￥2799","code":"shou5","prop":[
+=======
+            {"xin":"爆款","title":"HUAWEI nova 4 ","desc":"4800万超广角三摄 ", "imgurl":"image/imgs/shou5.png","price":"￥2799","code":"shou5","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/ze1.png","mark":"ze1"},
                 {"imgs":"image/imgs/ze2.jpg","mark":"ze2"},
                 {"imgs":"image/imgs/ze3.jpg","mark":"ze3"},
@@ -396,7 +436,11 @@
                 {"imgs":"image/imgs/ze5.jpg","mark":"ze5"},
                 {"imgs":"image/imgs/ze6.jpg","mark":"ze6"}
             ]},
+<<<<<<< HEAD
             {"title":"荣耀畅玩8A","desc":"到手价699 赠手机壳 ", "imgurl":"image/imgs/shou6.png","price":"￥699","code":"shou6","prop":[
+=======
+            {"xin":"热卖新品","title":"荣耀畅玩8A","desc":"到手价699 赠手机壳 ", "imgurl":"image/imgs/shou6.png","price":"￥699","code":"shou6","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/zf1.png","mark":"zf1"},
                 {"imgs":"image/imgs/zf2.jpg","mark":"zf2"},
                 {"imgs":"image/imgs/zf3.jpg","mark":"zf3"},
@@ -428,7 +472,11 @@
                 {"imgs":"image/imgs/zi5.png","mark":"zi5"},
                 {"imgs":"image/imgs/zi6.png","mark":"zi6"}
             ]},
+<<<<<<< HEAD
             {"title":"荣耀Note10","desc":"最高优惠900元", "imgurl":"image/imgs/shou10.png","price":"￥1899","code":"shou10","prop":[
+=======
+            {"xin":"爆款","title":"荣耀Note10","desc":"最高优惠900元", "imgurl":"image/imgs/shou10.png","price":"￥1899","code":"shou10","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/zg1.png","mark":"zg1"},
                 {"imgs":"image/imgs/zg2.png","mark":"zg2"},
                 {"imgs":"image/imgs/zg3.jpg","mark":"zg3"},
@@ -444,7 +492,11 @@
                 {"imgs":"image/imgs/zk5.png","mark":"zk5"},
                 {"imgs":"image/imgs/zk6.png","mark":"zk6"}
             ]},
+<<<<<<< HEAD
             {"title":"荣耀畅玩7","desc":"下单立减50元", "imgurl":"image/imgs/shou12.png","price":"￥599","code":"shou12","prop":[
+=======
+            {"xin":"热卖","title":"荣耀畅玩7","desc":"下单立减50元", "imgurl":"image/imgs/shou12.png","price":"￥599","code":"shou12","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/zl1.png","mark":"zl1"},
                 {"imgs":"image/imgs/zl2.png","mark":"zl2"},
                 {"imgs":"image/imgs/zl3.jpg","mark":"zl3"},
@@ -460,7 +512,11 @@
                 {"imgs":"image/imgs/zm5.jpg","mark":"zm5"},
                 {"imgs":"image/imgs/zm6.jpg","mark":"zm6"}
             ]},
+<<<<<<< HEAD
             {"title":"荣耀畅玩8C","desc":"最高优惠300", "imgurl":"image/imgs/shou14.png","price":"￥799","code":"shou14","prop":[
+=======
+            {"xin":"超值千元机","title":"荣耀畅玩8C","desc":"最高优惠300", "imgurl":"image/imgs/shou14.png","price":"￥799","code":"shou14","prop":[
+>>>>>>> lsq
                 {"imgs":"image/imgs/zn1.png","mark":"zn1"},
                 {"imgs":"image/imgs/zn2.png","mark":"zn2"},
                 {"imgs":"image/imgs/zn3.png","mark":"zn3"},

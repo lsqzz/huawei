@@ -52,6 +52,10 @@
 			i{
 				margin-right: 5px;
 			}
+<<<<<<< HEAD
+=======
+			
+>>>>>>> lsq
 		}
 	}
 	//下拉列表重复样式
@@ -60,7 +64,12 @@
 		position: absolute;
 		top: 36px;
 		padding-top: 7px;
+<<<<<<< HEAD
 		border-radius: 5px;
+=======
+		border-bottom-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+>>>>>>> lsq
 		display: none;
 	}
 	@mixin list-a{
@@ -74,6 +83,10 @@
 		width: 120px;
 		height: 140px;
 		left:535px;
+<<<<<<< HEAD
+=======
+		z-index: 100;
+>>>>>>> lsq
 		@include listStyle;
 		a{
 			@include list-a; 
@@ -83,6 +96,10 @@
 		width: 80px;
 		height: 82px;
 		left:1039px;
+<<<<<<< HEAD
+=======
+		z-index: 100;
+>>>>>>> lsq
 		@include listStyle;
 		a{
 			@include list-a;
@@ -92,6 +109,10 @@
 		width: 893px;
 		height: 142px;
 		left: 222px;
+<<<<<<< HEAD
+=======
+		z-index: 100;
+>>>>>>> lsq
 		@include listStyle;
 		div{
 			width: 145px;
@@ -136,6 +157,7 @@
 	}
 	.pull-down-list4{
 		width: 244px;
+<<<<<<< HEAD
 		height: 393px;
 		position: absolute;
 		background: red;
@@ -144,6 +166,16 @@
 		display: none;
 		div{
 			height: 130px;
+=======
+		height: 390px;
+		position: absolute;
+		top: 36px;
+		left:950px;
+		display: none;
+		z-index: 100;
+		div{
+			height: 131px;
+>>>>>>> lsq
 			border: 1px solid #e5e5e5;
 		}
 	}
@@ -154,6 +186,11 @@
 		left: 795px;
 		padding-top: 50px;
 		display: none;
+<<<<<<< HEAD
+=======
+		background: white;
+		z-index: 100;
+>>>>>>> lsq
 		h5{
 			text-align: center ;
 			margin-top: 16px;
