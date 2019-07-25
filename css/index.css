@@ -76,14 +76,14 @@
   height: 10px;
   text-align: center;
 }
-#banner .bannerNav .leftBox .login {
+#banner .bannerNav .leftBox .login2 {
   float: left;
   color: #999999;
 }
-#banner .bannerNav .leftBox .login p {
+#banner .bannerNav .leftBox .login2 p {
   line-height: 22px;
 }
-#banner .bannerNav .leftBox .login h3 a:nth-child(1) {
+#banner .bannerNav .leftBox .login2 h3 a:nth-child(1) {
   display: inline-block;
   width: 66px;
   line-height: 20px;
@@ -93,7 +93,7 @@
   text-align: center;
   border-radius: 5px;
 }
-#banner .bannerNav .leftBox .login h3 a:nth-child(2) {
+#banner .bannerNav .leftBox .login2 h3 a:nth-child(2) {
   display: inline-block;
   width: 68px;
   line-height: 22px;
