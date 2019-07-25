@@ -162,12 +162,17 @@
   font-weight: bold;
   color: #777777;
 }
-#banner .bannerNav .rightBox .notice div {
+#banner .bannerNav .rightBox .notice #notBanner {
   height: 43px;
+  width: 200px;
   float: left;
   overflow: hidden;
 }
-#banner .bannerNav .rightBox .notice div a {
+#banner .bannerNav .rightBox .notice #notBanner .swiper-slide {
+  width: 200px;
+  height: 43px;
+}
+#banner .bannerNav .rightBox .notice #notBanner .swiper-slide a {
   display: block;
   line-height: 43px;
 }
@@ -475,7 +480,7 @@
 
 #sideBar {
   width: 48px;
-  height: 1608px;
+  height: 160px;
   position: fixed;
   right: 0;
   bottom: 0;

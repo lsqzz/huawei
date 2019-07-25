@@ -167,13 +167,18 @@
 					font-weight: bold;
 					color:#777777;
 				}
-				div{
+				#notBanner{
 					height: 43px;
+					width: 200px;
 					float: left;
 					overflow: hidden;
-					a{
-						display: block;
-						line-height: 43px;
+					.swiper-slide{
+						width: 200px;
+						height: 43px;
+						a{
+							display: block;
+							line-height: 43px;
+						}
 					}
 				}
 			}
@@ -497,7 +502,7 @@
 
 #sideBar{
 	width: 48px;
-	height: 1608px;
+	height: 160px;
 	position: fixed;
 	right: 0;
 	bottom: 0;

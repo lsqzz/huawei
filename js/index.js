@@ -5,7 +5,7 @@ require.config({
 		"header": "header",
 		"footer": "footer",
 	}
-})
+});
 
 require(['header', 'jquery', 'footer'], function(header, $, footer) {
 	header($('#head'));
@@ -134,8 +134,17 @@ require(['header', 'jquery', 'footer'], function(header, $, footer) {
 			});
 		},
 	});
+	
+	
+	//点击进入详情页
+	$('#indexContent .phoProducts').on('click','a',function(){
+		console.log(location.href)
+		location.href = 'header.html?'+$(this).attr('index');
+		return false;
+	})
 });
 
+//index页面轮播图1
 var mySwiper = new Swiper('#banner', {
 	direction: 'horizontal', // 垂直切换选项
 	loop: true, // 循环模式选项
@@ -170,4 +179,16 @@ var mySwiper2 = new Swiper('#indexBanner2', {
 	},
 
 	
-})
+});
+
+
+// 公告上下轮播
+var mySwiper3 = new Swiper('#notBanner', {
+	direction: 'vertical', // 垂直切换选项
+	loop: true, // 循环模式选项
+	autoplay: {
+		disableOnInteraction: true,
+	},
+});
+
+ 
