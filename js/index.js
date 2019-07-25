@@ -68,17 +68,17 @@ require(['header', 'jquery', 'footer'], function(header, $, footer) {
 
 			//鼠标移除时
 			$('#banner .bannerLeftNav li').mouseout(function() {
-				$(this).css('background', '#f2f3f1');
-				$(this).find('p').css('borderBottom', '1px solid #ccc').parent().prev().find('p').css('borderBottom','1px solid #ccc');
-				$(this).find('p').last().css('borderBottom',0);
-				$('#banner .bannerRightNav').css('display', 'none');
+				$(this).css('background', '#f2f3f1')
+				$(this).find('p').css('borderBottom', '1px solid #ccc').parent().prev().find('p').css('borderBottom',
+					'1px solid #ccc');
+				$('#banner .bannerRightNav').css('display', 'none')
 			});
 
 			//获取indContHead数据
 			$.each(data[1].more, function(index, item) {
 				HTML3 += `<a href=""><img src="${item.imgurl}" alt=""></a>`;
 				$('#indexContent .indContHead').html(HTML3);
-			});
+			})
 
 			//获取热销单品的数据
 			$.each(data[2].more, function(index, item) {
@@ -100,7 +100,7 @@ require(['header', 'jquery', 'footer'], function(header, $, footer) {
 					$(this).css('background','#ff6a6e')
 				}
 				 
-			});
+			})
 			
 			//第二个banner图上的数据请求
 			for(var i=0;i<2;i++){
@@ -123,7 +123,7 @@ require(['header', 'jquery', 'footer'], function(header, $, footer) {
 				}else{
 					HTML6 +=`<a href="" index="${item.code}"><h5><span>${item.xin}</span></h5><img src="${item.imgurl}"  ><h2>${item.title}</h2><h3>${item.desc}</h3><h4>${item.price}</h4></a>`;
 				}
-			});
+			})
 			$('#indexContent .phone .phoProducts').html(HTML6);
 			var h5Html = $('#indexContent .phone .phoProducts').find('span');
 			h5Html.each(function(inxdex,item){
@@ -131,7 +131,7 @@ require(['header', 'jquery', 'footer'], function(header, $, footer) {
 					$(this).html('').css('background','#f9f9f9')
 				}
 				 
-			});
+			})
 		},
 	});
 });
@@ -157,7 +157,7 @@ var mySwiper = new Swiper('#banner', {
 	},
 
 	
-});
+})
 
 //index页面轮播图2
 var mySwiper2 = new Swiper('#indexBanner2', {

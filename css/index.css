@@ -211,9 +211,6 @@
   background: #f2f3f4;
   padding: 0 25px;
 }
-#banner .bannerLeftNav li:nth-child(6) p {
-  border-bottom: 0;
-}
 #banner .bannerLeftNav li h2 a {
   display: inline-block;
   font-size: 16px;
