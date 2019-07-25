@@ -35,6 +35,10 @@ define(['jquery'],function ($){
 		$('#head .pull-down-list2').mouseout(function(){
 			$(this).css('display','none')
 		})
+		//登陆显示隐藏
+		$('#head .rightBox li:nth-child(1)').children().eq(0).click(function(){
+			$('.content').css('display','block');
+		})
 		
 		//头部下拉列表3显示隐藏
 		$('#head .rightBox li:nth-child(4)').mousemove(function(){
