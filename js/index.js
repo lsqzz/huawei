@@ -139,9 +139,20 @@ require(['header', 'jquery', 'footer'], function(header, $, footer) {
 	//点击进入详情页
 	$('#indexContent .phoProducts').on('click','a',function(){
 		console.log(location.href)
-		location.href = 'header.html?'+$(this).attr('index');
+		location.href = 'list.html?'+$(this).attr('index');
 		return false;
 	})
+	
+	//登陆成功后login2显示
+	if(localStorage.getItem('usNa')){
+		$('#head .rightBox li a').eq(0).html(JSON.parse(localStorage.getItem('usNa'))).css('color','red');
+		$('.login2 p span').html("");
+		$('.login2 p a').eq(0).html(JSON.parse(localStorage.getItem('usNa'))).css('color','red');
+	}
+	 
+	//首页购物车 
+	var charCats2 =  JSON.parse(localStorage.getItem('shopCar'));
+	$('.colorCat a em').html(charCats2.length).css('color','red');
 });
 
 //index页面轮播图1
@@ -190,5 +201,3 @@ var mySwiper3 = new Swiper('#notBanner', {
 		disableOnInteraction: true,
 	},
 });
-
- 

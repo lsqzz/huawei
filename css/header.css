@@ -78,7 +78,7 @@
 #head .pull-down-list2 {
   width: 80px;
   height: 82px;
-  left: 1039px;
+  left: 950px;
   z-index: 100;
   background: white;
   position: absolute;
@@ -166,7 +166,7 @@
   position: absolute;
   top: 36px;
   left: 795px;
-  padding-top: 50px;
+  padding: 50px 0;
   display: none;
   background: white;
   z-index: 100;

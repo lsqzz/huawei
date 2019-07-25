@@ -83,7 +83,7 @@
 						<img src="image/imgs/people.jpg" alt="">
 					</div>
 					<div class="login2">
-						<p>您好，请! <a href="#">登录</a>/ <a href="#">注册</a></p>
+						<p> <span>您好，请!</span> <a href="#">登录</a>/ <a href="#">注册</a></p>
 						<h3>
 							<a href="">新人福利</a>
 							<a href="">会员频道</a>
@@ -307,6 +307,8 @@
 						}
 						drag.style.left = moveX + 'px';
 						drag.style.top = moveY + 'px'
+						
+						window.getSelection?window.getSelection().removeAllRanges():document.selection.empty();
 					}
 					tuo.onmouseup = function(event) {
 						this.onmousemove = null;
@@ -329,6 +331,7 @@
 			var ewmyc = document.querySelector('.ewmyc')
 			var hgewm = document.querySelector('.hgewm')
 			var ydpy = document.querySelector('.ydpy')
+			
 			login.onclick = function() {
 				var username = phnum.value; //必须得在内部获取值，否则事件进行了获取不到值
 				var userpass = psw.value;
@@ -339,7 +342,16 @@
 						data: 'act=login&user=' + username + '&pass=' + userpass,
 						success: function(data) {
 							var json = JSON.parse(data);
-							alert(json.msg);
+							if(json.err == 0){
+								var head = document.querySelectorAll('#head .rightBox li a')[0];
+								drag.style.display = "none";
+								localStorage.setItem('usNa',JSON.stringify(phnum.value));
+								head.innerHTML = phnum.value ;
+								head.style.color = "red";
+							}else{
+								alert("用户名或者密码错误")
+							}
+							
 						},
 						failed: function(code) {
 							alert('错误' + code);

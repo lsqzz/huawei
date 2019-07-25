@@ -38,7 +38,6 @@ define(['jquery'],function ($){
 		
 		//登陆显示隐藏
 		$('#head .rightBox li:nth-child(1)').children().eq(0).click(function(){
-			console.log(1)
 			$('.content').css('display','block')
 		
 		})
@@ -90,6 +89,8 @@ define(['jquery'],function ($){
 		$('#head .pull-down-list5').mouseout(function(){
 			$(this).css('display','none')
 		})
+		
+		 
     }
     return setheader;
 });
